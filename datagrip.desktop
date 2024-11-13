@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/home/trijitghosh/Programs/datagrip-2021.3.4/bin/datagrip.png
+Exec=/home/trijitghosh/Programs/datagrip-2021.3.4/bin/datagrip.sh
+Path=/home/trijitghosh/Programs/datagrip-2021.3.4/bin
+Name[en_US]=Datagrip
+Name=Datagrip
